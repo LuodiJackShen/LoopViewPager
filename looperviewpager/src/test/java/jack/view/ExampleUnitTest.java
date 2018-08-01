@@ -1,4 +1,4 @@
-package jack.view.LoopViewPager;
+package jack.view;
 
 import org.junit.Test;
 
