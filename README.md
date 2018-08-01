@@ -1,3 +1,1 @@
-"# LoopViewPager" 
-"# LoopViewPager" 
-"# LoopViewPager" 
+# LoopViewPager
